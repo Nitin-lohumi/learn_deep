@@ -1,0 +1,15 @@
+.frist_box{
+    display: flex;
+    box-shadow:1px 1px 3px green;
+    justify-content:space-around;
+    margin:10px 0;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    text-transform:capitalize ;
+}
+a{
+    text-decoration: none;
+    color:rgb(40, 59, 0);
+}
